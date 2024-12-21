@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/signup": {
+      "name": "/signup",
+      "lambdaFunction": "signup",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
